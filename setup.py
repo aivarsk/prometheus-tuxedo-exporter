@@ -13,7 +13,7 @@ if sys.argv[-1] == "publish":
 
 setup(
     name="prometheus-tuxedo-exporter",
-    version="1.0.0",
+    version="1.0.1",
     description="A Prometheus exporter of Tuxedo metrics",
     long_description=open("README.rst").read(),
     author="Aivars Kalvans",
